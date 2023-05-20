@@ -1,3 +1,6 @@
+http://example.com/2023/05/20/python%E4%B8%AD%E7%9A%84%E7%B1%BB/
+http://example.com/2023/05/19/python%E4%B8%AD%E7%9A%84print/
+http://example.com/2023/05/19/python%E4%B8%AD%E7%9A%84%E5%87%BD%E6%95%B0%E5%8F%82%E6%95%B0%E4%BC%A0%E9%80%92/
 http://example.com/2023/05/07/%E9%9D%9E%E5%AF%B9%E7%A7%B0%E5%8A%A0%E5%AF%86/
 http://example.com/2023/03/12/hello-world/
 http://example.com/
